@@ -1,0 +1,24 @@
+{
+  "name": "box-for-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "@types/luxon": "^2.0.9",
+    "box-node-sdk": "^2.0.0",
+    "cli-ux": "^6.0.9",
+    "express": "^4.17.2",
+    "fs-extra": "^10.0.0",
+    "luxon": "^2.3.0"
+  }
+}
